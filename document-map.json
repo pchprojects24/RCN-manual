@@ -1,0 +1,540 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-15",
+  "repository": "RCN-manual",
+  "document_root": "documents/",
+  "total_documents": 47,
+  "categories": [
+    {
+      "id": "medical-doctrine",
+      "name": "Medical & Military Doctrine",
+      "description": "Allied joint doctrine, NATO medical publications, and core reference standards"
+    },
+    {
+      "id": "sems",
+      "name": "Safety & Environmental Management Systems",
+      "description": "SEMS manuals, operational drafts, and safety management references"
+    },
+    {
+      "id": "annexes",
+      "name": "Annexes - Safety & Administrative",
+      "description": "Supplementary annexes covering safety publications, hazard materials, reporting, and risk management"
+    },
+    {
+      "id": "appendices-checklists",
+      "name": "Appendices - Inspection Checklists",
+      "description": "Detailed inspection checklists for various work areas, equipment, and environments"
+    },
+    {
+      "id": "pre-deployment",
+      "name": "Pre-Deployment & Operational Checklists",
+      "description": "Pre-sail, pre-STP, and pre-WUPS preparation checklists and tips"
+    },
+    {
+      "id": "admin-instructions",
+      "name": "Administrative Instructions (Samples)",
+      "description": "Sample administrative instruction documents for various readiness training teams"
+    },
+    {
+      "id": "health-environment",
+      "name": "Health & Environmental Guidance",
+      "description": "WHO guidelines, water quality guidance, and health-related references"
+    },
+    {
+      "id": "training-modules",
+      "name": "Training Modules",
+      "description": "Core training modules for introduction and education references"
+    },
+    {
+      "id": "operational-reports",
+      "name": "Operational Reports & Instructions",
+      "description": "Damage control instructions, embarkation reports, program overviews, and operational documents"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-001",
+      "filename": "AJP-4.10 Allied Joint Doctrine For Medical Support.pdf",
+      "path": "documents/AJP-4.10 Allied Joint Doctrine For Medical Support.pdf",
+      "title": "AJP-4.10 Allied Joint Doctrine For Medical Support",
+      "category": "medical-doctrine",
+      "type": "pdf",
+      "size_bytes": 1171377,
+      "keywords": ["AJP-4.10", "allied joint doctrine", "medical support", "NATO", "doctrine"]
+    },
+    {
+      "id": "doc-002",
+      "filename": "AMedP-1.10 Medical Aspects in The Management of a Major Incident - Mass Casualty Event.pdf",
+      "path": "documents/AMedP-1.10 Medical Aspects in The Management of a Major Incident - Mass Casualty Event.pdf",
+      "title": "AMedP-1.10 Medical Aspects in The Management of a Major Incident - Mass Casualty Event",
+      "category": "medical-doctrine",
+      "type": "pdf",
+      "size_bytes": 442309,
+      "keywords": ["AMedP-1.10", "mass casualty", "major incident", "medical management", "MASCAL"]
+    },
+    {
+      "id": "doc-003",
+      "filename": "AMedP-1.11 Requirements For Individual Operational Rations for Military Use.pdf",
+      "path": "documents/AMedP-1.11 Requirements For Individual Operational Rations for Military Use.pdf",
+      "title": "AMedP-1.11 Requirements For Individual Operational Rations for Military Use",
+      "category": "medical-doctrine",
+      "type": "pdf",
+      "size_bytes": 830581,
+      "keywords": ["AMedP-1.11", "operational rations", "military rations", "nutrition", "IOR"]
+    },
+    {
+      "id": "doc-004",
+      "filename": "AMedP-11 2008 Handbook on Maritime Medicine (1).pdf",
+      "path": "documents/AMedP-11 2008 Handbook on Maritime Medicine (1).pdf",
+      "title": "AMedP-11 Handbook on Maritime Medicine (2008)",
+      "category": "medical-doctrine",
+      "type": "pdf",
+      "size_bytes": 1979644,
+      "page_count": 460,
+      "keywords": ["AMedP-11", "maritime medicine", "handbook", "naval medicine", "shipboard medical"]
+    },
+    {
+      "id": "doc-005",
+      "filename": "1000-6-eng.pdf",
+      "path": "documents/1000-6-eng.pdf",
+      "title": "1000-6-eng",
+      "category": "medical-doctrine",
+      "type": "pdf",
+      "size_bytes": 792321,
+      "keywords": ["1000-6", "reference standard"]
+    },
+    {
+      "id": "doc-006",
+      "filename": "cocdseng.pdf",
+      "path": "documents/cocdseng.pdf",
+      "title": "COCDS (English)",
+      "category": "operational-reports",
+      "type": "pdf",
+      "size_bytes": 1053367,
+      "keywords": ["COCDS", "code", "regulation"]
+    },
+    {
+      "id": "doc-007",
+      "filename": "MARLANT Safety and Environmental Management System (SEMS) Manual.pdf",
+      "path": "documents/MARLANT Safety and Environmental Management System (SEMS) Manual.pdf",
+      "title": "MARLANT Safety and Environmental Management System (SEMS) Manual",
+      "category": "sems",
+      "type": "pdf",
+      "size_bytes": 9881050,
+      "keywords": ["MARLANT", "SEMS", "safety management", "environmental management", "manual"]
+    },
+    {
+      "id": "doc-008",
+      "filename": "SEMSSep20_rev_FINAL.pdf",
+      "path": "documents/SEMSSep20_rev_FINAL.pdf",
+      "title": "SEMS September 2020 Revision (Final)",
+      "category": "sems",
+      "type": "pdf",
+      "size_bytes": 15982292,
+      "keywords": ["SEMS", "safety management", "2020 revision", "final"]
+    },
+    {
+      "id": "doc-009",
+      "filename": "HDW_Class_SEMS_OP_DRAFT_JUL20.pdf",
+      "path": "documents/HDW_Class_SEMS_OP_DRAFT_JUL20.pdf",
+      "title": "HDW Class SEMS Operational Draft (July 2020)",
+      "category": "sems",
+      "type": "pdf",
+      "size_bytes": 14814490,
+      "keywords": ["HDW class", "SEMS", "operational", "draft", "Halifax class", "July 2020"]
+    },
+    {
+      "id": "doc-010",
+      "filename": "Annex 1B - General Safety Publications and Posters.pdf",
+      "path": "documents/Annex 1B - General Safety Publications and Posters.pdf",
+      "title": "Annex 1B - General Safety Publications and Posters",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 91788,
+      "keywords": ["annex 1B", "safety publications", "posters", "general safety"]
+    },
+    {
+      "id": "doc-011",
+      "filename": "Annex 2A - Hazardous Materials Safety Responsibilities.pdf",
+      "path": "documents/Annex 2A - Hazardous Materials Safety Responsibilities.pdf",
+      "title": "Annex 2A - Hazardous Materials Safety Responsibilities",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 83925,
+      "keywords": ["annex 2A", "hazardous materials", "HAZMAT", "safety responsibilities"]
+    },
+    {
+      "id": "doc-012",
+      "filename": "Annex 2C - General Safety Activity Report.pdf",
+      "path": "documents/Annex 2C - General Safety Activity Report.pdf",
+      "title": "Annex 2C - General Safety Activity Report",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 14248,
+      "keywords": ["annex 2C", "safety activity", "report", "general safety"]
+    },
+    {
+      "id": "doc-013",
+      "filename": "Annex 2D - Health and Safety Representatives.pdf",
+      "path": "documents/Annex 2D - Health and Safety Representatives.pdf",
+      "title": "Annex 2D - Health and Safety Representatives",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 95748,
+      "keywords": ["annex 2D", "health and safety", "representatives", "H&S reps"]
+    },
+    {
+      "id": "doc-014",
+      "filename": "Annex 4A - Statistics and Analysis.pdf",
+      "path": "documents/Annex 4A - Statistics and Analysis.pdf",
+      "title": "Annex 4A - Statistics and Analysis",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 99111,
+      "keywords": ["annex 4A", "statistics", "analysis", "safety statistics"]
+    },
+    {
+      "id": "doc-015",
+      "filename": "Annex 5B - Provincial Safety Councils and Leagues.pdf",
+      "path": "documents/Annex 5B - Provincial Safety Councils and Leagues.pdf",
+      "title": "Annex 5B - Provincial Safety Councils and Leagues",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 97111,
+      "keywords": ["annex 5B", "provincial", "safety councils", "safety leagues"]
+    },
+    {
+      "id": "doc-016",
+      "filename": "Annex 6D - Employees on Ships and Aircraft.pdf",
+      "path": "documents/Annex 6D - Employees on Ships and Aircraft.pdf",
+      "title": "Annex 6D - Employees on Ships and Aircraft",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 8249,
+      "page_count": 1,
+      "keywords": ["annex 6D", "employees", "ships", "aircraft", "shipboard"]
+    },
+    {
+      "id": "doc-017",
+      "filename": "Annex 8B - Temporary Modified Work Agreement.pdf",
+      "path": "documents/Annex 8B - Temporary Modified Work Agreement.pdf",
+      "title": "Annex 8B - Temporary Modified Work Agreement",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 101170,
+      "keywords": ["annex 8B", "temporary modified work", "agreement", "return to work"]
+    },
+    {
+      "id": "doc-018",
+      "filename": "Annex 9A - Unsafe Conditions and Personnel Operating Errors.pdf",
+      "path": "documents/Annex 9A - Unsafe Conditions and Personnel Operating Errors.pdf",
+      "title": "Annex 9A - Unsafe Conditions and Personnel Operating Errors",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 18820,
+      "keywords": ["annex 9A", "unsafe conditions", "operating errors", "personnel errors"]
+    },
+    {
+      "id": "doc-019",
+      "filename": "Annex 9B - Example Safety Inspection Checklists.pdf",
+      "path": "documents/Annex 9B - Example Safety Inspection Checklists.pdf",
+      "title": "Annex 9B - Example Safety Inspection Checklists",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 15588,
+      "keywords": ["annex 9B", "safety inspection", "checklists", "example"]
+    },
+    {
+      "id": "doc-020",
+      "filename": "Annex 10B - Hazard Identification Report.pdf",
+      "path": "documents/Annex 10B - Hazard Identification Report.pdf",
+      "title": "Annex 10B - Hazard Identification Report",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 97438,
+      "keywords": ["annex 10B", "hazard identification", "report", "hazard ID"]
+    },
+    {
+      "id": "doc-021",
+      "filename": "Annex 10C - Risk Management Record.pdf",
+      "path": "documents/Annex 10C - Risk Management Record.pdf",
+      "title": "Annex 10C - Risk Management Record",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 98472,
+      "keywords": ["annex 10C", "risk management", "record", "risk assessment"]
+    },
+    {
+      "id": "doc-022",
+      "filename": "Annex 10E - Sample Job Hazard Analysis.pdf",
+      "path": "documents/Annex 10E - Sample Job Hazard Analysis.pdf",
+      "title": "Annex 10E - Sample Job Hazard Analysis",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 20318,
+      "keywords": ["annex 10E", "job hazard analysis", "JHA", "sample"]
+    },
+    {
+      "id": "doc-023",
+      "filename": "Annex 10F - Sample 2 - Job Hazards Analysis Form (Haz Substances Handling).pdf",
+      "path": "documents/Annex 10F - Sample 2 - Job Hazards Analysis Form (Haz Substances Handling).pdf",
+      "title": "Annex 10F - Job Hazards Analysis Form (Hazardous Substances Handling)",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 92840,
+      "keywords": ["annex 10F", "job hazard analysis", "hazardous substances", "handling", "JHA"]
+    },
+    {
+      "id": "doc-024",
+      "filename": "Annex 10G - Sample 3 - Job Hazard Analysis Form (Ergonomic Factors).pdf",
+      "path": "documents/Annex 10G - Sample 3 - Job Hazard Analysis Form (Ergonomic Factors).pdf",
+      "title": "Annex 10G - Job Hazard Analysis Form (Ergonomic Factors)",
+      "category": "annexes",
+      "type": "pdf",
+      "size_bytes": 36633,
+      "keywords": ["annex 10G", "job hazard analysis", "ergonomic", "JHA", "ergonomic factors"]
+    },
+    {
+      "id": "doc-025",
+      "filename": "Appendix 9BI - Industrial Work Area Checklist.pdf",
+      "path": "documents/Appendix 9BI - Industrial Work Area Checklist.pdf",
+      "title": "Appendix 9B-I - Industrial Work Area Checklist",
+      "category": "appendices-checklists",
+      "type": "pdf",
+      "size_bytes": 107731,
+      "keywords": ["appendix 9B-I", "industrial", "work area", "checklist", "inspection"]
+    },
+    {
+      "id": "doc-026",
+      "filename": "Appendix 9B-II - Office Inspection Checklist.pdf",
+      "path": "documents/Appendix 9B-II - Office Inspection Checklist.pdf",
+      "title": "Appendix 9B-II - Office Inspection Checklist",
+      "category": "appendices-checklists",
+      "type": "pdf",
+      "size_bytes": 27308,
+      "keywords": ["appendix 9B-II", "office", "inspection", "checklist"]
+    },
+    {
+      "id": "doc-027",
+      "filename": "Appendix 9B-IV - General Conditions and Facilities Checklist.pdf",
+      "path": "documents/Appendix 9B-IV - General Conditions and Facilities Checklist.pdf",
+      "title": "Appendix 9B-IV - General Conditions and Facilities Checklist",
+      "category": "appendices-checklists",
+      "type": "pdf",
+      "size_bytes": 101335,
+      "keywords": ["appendix 9B-IV", "general conditions", "facilities", "checklist", "inspection"]
+    },
+    {
+      "id": "doc-028",
+      "filename": "Appendix 9B-V - Materials and Tools Inspection Checklist.pdf",
+      "path": "documents/Appendix 9B-V - Materials and Tools Inspection Checklist.pdf",
+      "title": "Appendix 9B-V - Materials and Tools Inspection Checklist",
+      "category": "appendices-checklists",
+      "type": "pdf",
+      "size_bytes": 23559,
+      "keywords": ["appendix 9B-V", "materials", "tools", "inspection", "checklist"]
+    },
+    {
+      "id": "doc-029",
+      "filename": "Appendix 9B-VI - Equipment Inspection Checklist.pdf",
+      "path": "documents/Appendix 9B-VI - Equipment Inspection Checklist.pdf",
+      "title": "Appendix 9B-VI - Equipment Inspection Checklist",
+      "category": "appendices-checklists",
+      "type": "pdf",
+      "size_bytes": 20623,
+      "keywords": ["appendix 9B-VI", "equipment", "inspection", "checklist"]
+    },
+    {
+      "id": "doc-030",
+      "filename": "Appendix 9B-VII - Protection, Prevention and Emergency Devices Checklist.pdf",
+      "path": "documents/Appendix 9B-VII - Protection, Prevention and Emergency Devices Checklist.pdf",
+      "title": "Appendix 9B-VII - Protection, Prevention and Emergency Devices Checklist",
+      "category": "appendices-checklists",
+      "type": "pdf",
+      "size_bytes": 19238,
+      "keywords": ["appendix 9B-VII", "protection", "prevention", "emergency devices", "checklist"]
+    },
+    {
+      "id": "doc-031",
+      "filename": "Appendix 9B-IX - Air Environment Safety Checklist.pdf",
+      "path": "documents/Appendix 9B-IX - Air Environment Safety Checklist.pdf",
+      "title": "Appendix 9B-IX - Air Environment Safety Checklist",
+      "category": "appendices-checklists",
+      "type": "pdf",
+      "size_bytes": 27892,
+      "keywords": ["appendix 9B-IX", "air environment", "safety", "checklist", "air quality"]
+    },
+    {
+      "id": "doc-032",
+      "filename": "Pre-Sail PA Habitability rounds.pdf",
+      "path": "documents/Pre-Sail PA Habitability rounds.pdf",
+      "title": "Pre-Sail PA Habitability Rounds",
+      "category": "pre-deployment",
+      "type": "pdf",
+      "size_bytes": 31694,
+      "page_count": 3,
+      "keywords": ["pre-sail", "PA", "habitability", "rounds", "inspection"]
+    },
+    {
+      "id": "doc-033",
+      "filename": "Pre Sail Medical Equipment and Stores Checklist.pdf",
+      "path": "documents/Pre Sail Medical Equipment and Stores Checklist.pdf",
+      "title": "Pre-Sail Medical Equipment and Stores Checklist",
+      "category": "pre-deployment",
+      "type": "pdf",
+      "size_bytes": 38717,
+      "page_count": 4,
+      "keywords": ["pre-sail", "medical equipment", "stores", "checklist", "medical supplies"]
+    },
+    {
+      "id": "doc-034",
+      "filename": "Pre-STP Checklist.pdf",
+      "path": "documents/Pre-STP Checklist.pdf",
+      "title": "Pre-STP Checklist",
+      "category": "pre-deployment",
+      "type": "pdf",
+      "size_bytes": 23566,
+      "page_count": 2,
+      "keywords": ["pre-STP", "STP", "checklist", "sea training program"]
+    },
+    {
+      "id": "doc-035",
+      "filename": "PRE-WUPS_XO_TIPS.pdf",
+      "path": "documents/PRE-WUPS_XO_TIPS.pdf",
+      "title": "Pre-WUPS XO Tips",
+      "category": "pre-deployment",
+      "type": "pdf",
+      "size_bytes": 372114,
+      "page_count": 9,
+      "keywords": ["pre-WUPS", "WUPS", "XO", "executive officer", "tips", "work-ups"]
+    },
+    {
+      "id": "doc-036",
+      "filename": "Sample - BSSRT Administrative Instructions.pdf",
+      "path": "documents/Sample - BSSRT Administrative Instructions.pdf",
+      "title": "Sample - BSSRT Administrative Instructions",
+      "category": "admin-instructions",
+      "type": "pdf",
+      "size_bytes": 98353,
+      "page_count": 17,
+      "keywords": ["BSSRT", "administrative instructions", "sample", "readiness training"]
+    },
+    {
+      "id": "doc-037",
+      "filename": "Sample - IASRT Administrative Instructions.pdf",
+      "path": "documents/Sample - IASRT Administrative Instructions.pdf",
+      "title": "Sample - IASRT Administrative Instructions",
+      "category": "admin-instructions",
+      "type": "pdf",
+      "size_bytes": 122457,
+      "page_count": 17,
+      "keywords": ["IASRT", "administrative instructions", "sample", "readiness training"]
+    },
+    {
+      "id": "doc-038",
+      "filename": "Sample - IMSRT Administrative Instructions.pdf",
+      "path": "documents/Sample - IMSRT Administrative Instructions.pdf",
+      "title": "Sample - IMSRT Administrative Instructions",
+      "category": "admin-instructions",
+      "type": "pdf",
+      "size_bytes": 99099,
+      "page_count": 17,
+      "keywords": ["IMSRT", "administrative instructions", "sample", "readiness training"]
+    },
+    {
+      "id": "doc-039",
+      "filename": "Sample - MSRT Administrative Instructions.pdf",
+      "path": "documents/Sample - MSRT Administrative Instructions.pdf",
+      "title": "Sample - MSRT Administrative Instructions",
+      "category": "admin-instructions",
+      "type": "pdf",
+      "size_bytes": 100182,
+      "page_count": 17,
+      "keywords": ["MSRT", "administrative instructions", "sample", "readiness training"]
+    },
+    {
+      "id": "doc-040",
+      "filename": "WHO Guidelines for Drinking Water Quality - Guide to Ship Sanitation.pdf",
+      "path": "documents/WHO Guidelines for Drinking Water Quality - Guide to Ship Sanitation.pdf",
+      "title": "WHO Guidelines for Drinking Water Quality - Guide to Ship Sanitation",
+      "category": "health-environment",
+      "type": "pdf",
+      "size_bytes": 709170,
+      "keywords": ["WHO", "drinking water", "water quality", "ship sanitation", "guidelines"]
+    },
+    {
+      "id": "doc-041",
+      "filename": "Water Guidance Re- Lead 6695-08.pdf",
+      "path": "documents/Water Guidance Re- Lead 6695-08.pdf",
+      "title": "Water Guidance Regarding Lead (6695-08)",
+      "category": "health-environment",
+      "type": "pdf",
+      "size_bytes": 163020,
+      "keywords": ["water guidance", "lead", "6695-08", "water quality", "contamination"]
+    },
+    {
+      "id": "doc-042",
+      "filename": "Module 1 - Introduction.pdf",
+      "path": "documents/Module 1 - Introduction.pdf",
+      "title": "Module 1 - Introduction",
+      "category": "training-modules",
+      "type": "pdf",
+      "size_bytes": 77702,
+      "keywords": ["module 1", "introduction", "training", "overview"]
+    },
+    {
+      "id": "doc-043",
+      "filename": "Module 7 - Education, Training and References.pdf",
+      "path": "documents/Module 7 - Education, Training and References.pdf",
+      "title": "Module 7 - Education, Training and References",
+      "category": "training-modules",
+      "type": "pdf",
+      "size_bytes": 105241,
+      "keywords": ["module 7", "education", "training", "references"]
+    },
+    {
+      "id": "doc-044",
+      "filename": "Damage_Control_Instructions_01-22-Carbon_Fiber.pdf",
+      "path": "documents/Damage_Control_Instructions_01-22-Carbon_Fiber.pdf",
+      "title": "Damage Control Instructions 01-22 - Carbon Fiber",
+      "category": "operational-reports",
+      "type": "pdf",
+      "size_bytes": 607160,
+      "page_count": 11,
+      "keywords": ["damage control", "carbon fiber", "DCI", "01-22", "instructions"]
+    },
+    {
+      "id": "doc-045",
+      "filename": "IMSRT_PREP_LIST.pdf",
+      "path": "documents/IMSRT_PREP_LIST.pdf",
+      "title": "IMSRT Preparation List",
+      "category": "operational-reports",
+      "type": "pdf",
+      "size_bytes": 192135,
+      "page_count": 6,
+      "keywords": ["IMSRT", "preparation", "prep list", "readiness"]
+    },
+    {
+      "id": "doc-046",
+      "filename": "PVST EMBARKATION REPORT.pdf",
+      "path": "documents/PVST EMBARKATION REPORT.pdf",
+      "title": "PVST Embarkation Report",
+      "category": "operational-reports",
+      "type": "pdf",
+      "size_bytes": 238972,
+      "page_count": 16,
+      "keywords": ["PVST", "embarkation", "report", "pre-visit"]
+    },
+    {
+      "id": "doc-047",
+      "filename": "STP Program Overview.pdf",
+      "path": "documents/STP Program Overview.pdf",
+      "title": "STP Program Overview",
+      "category": "operational-reports",
+      "type": "pdf",
+      "size_bytes": 47268,
+      "page_count": 4,
+      "keywords": ["STP", "sea training program", "program overview"]
+    }
+  ]
+}
